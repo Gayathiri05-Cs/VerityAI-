@@ -1,0 +1,6 @@
+{
+  "name": "VerityAI — AICTE Application Validation & Document Verification",
+  "description": "AI-assisted regulatory platform for AICTE officials to validate institutional applications, verify documents, identify discrepancies, assess explainable risk scores, and maintain immutable audit trails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
